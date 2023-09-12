@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_wayland_protools_src",                   # 上游开源软件名全称
+        "Name": "chromium_third_party_wayland_protocols_src",                   # 上游开源软件名全称
         "License":"MIT",         # 上游开源软件中包含的许可证信息
         "License File": "COPYING",  # 许可证所在文件路径
         "Version Number": "177ff9119da526462e5d35fbfde6c84794913787",
