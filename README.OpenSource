@@ -1,8 +1,8 @@
 [
     {
-        "Name": "chromium_third_party_wayland_protools_src",                   # 上游开源软件名全称
-        "License": ,         # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE"     # 许可证所在文件路径
+        "Name": "wayland-protocols",                   # 上游开源软件名全称
+        "License":"MIT",         # 上游开源软件中包含的许可证信息
+        "License File": "COPYING",  # 许可证所在文件路径
         "Version Number": "177ff9119da526462e5d35fbfde6c84794913787",
         "Upstream URL": "https://chromium.googlesource.com/external/anongit.freedesktop.org/git/wayland/wayland-protocols.git@177ff9119da526462e5d35fbfde6c84794913787",   # 上游软件包发布地址
         "Description": "设计替代X的显示服务器src"           # 开源软件功能描述
