@@ -65,12 +65,12 @@ used to filter file path.
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
                 <filteritem type="filepath" name="unstable/text-input/text-input-unstable-v3.xml"
-                    desc="" />
+                    desc="chromium原生文件无license" />
             </filefilter>
 
             <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
-                    desc="" />
+                    desc="Filter readme.opensource files" />
             </filefilter>
         </filefilterlist>
     </oatconfig>
