@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "wayland",
+        "License":"MIT",
+        "License File": "COPYING",
+        "Version Number": "7d5a3a8b494ae44cd9651f9505e88a250082765e",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/anongit.freedesktop.org/git/wayland/wayland-protocols.git@7d5a3a8b494ae44cd9651f9505e88a250082765e",
+        "Description": "设计替代X的显示服务器src,一个简单的“显示服务器”"
+    }
+]
